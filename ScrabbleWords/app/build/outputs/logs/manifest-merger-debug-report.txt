@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c89d0cf8f09841d9b64445879bd721ff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c89d0cf8f09841d9b64445879bd721ff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c89d0cf8f09841d9b64445879bd721ff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.kourias.dimitrisk.scrabblewords.MainActivity
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.kourias.dimitrisk.scrabblewords.GameActivity
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.kourias.dimitrisk.scrabblewords.InfoActivity
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.kourias.dimitrisk.scrabblewords.ResultsActivity
+ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml:21:19-50
+uses-sdk
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c89d0cf8f09841d9b64445879bd721ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c89d0cf8f09841d9b64445879bd721ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		ADDED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyFiles\Projects\ScrabbleWords\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3d51267046f51017e62340d0a991f807\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d9c4881dcaec02384b237afd6057758b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\012f9f0296d276ac08db5ce63b763774\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2b6b65a0ced70ec96c63e0197541f5d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dca823f900aa97f779bb887d52ce8f02\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b4732dde7880bac2991caaedd9b3f18e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\daba4ebf9b2e5e165bacc3dddf551e4a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7d108563257faa84d2d0542153697325\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\97e5feda026797814c426d6c2d09059c\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DimitrisK\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0c7c87e647788622fc5e1753314a42d7\AndroidManifest.xml:26:13-58

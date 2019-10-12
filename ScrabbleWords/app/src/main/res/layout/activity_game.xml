@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_game_easy"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingBottom="4dp"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="4dp"
+    tools:context="com.kourias.dimitrisk.scrabblewords.GameActivity"
+    android:background="@drawable/backround">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Επέλεξε τα γράμματα με την σωστή σειρά ωστέ να σχηματίσεις την λέξη."
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp">
+
+
+        <Button
+            android:id="@+id/first_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/second_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/third_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/fourth_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/fifth_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/sixth_letter_btn"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn1"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Απάντηση:"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp">
+
+        <TextView
+            android:id="@+id/first_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/second_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/third_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/fourth_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/fifth_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/sixth_letter_answer_tv"
+            android:layout_width="50dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/tv2"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:visibility="gone" />
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp">
+
+        <Button
+            android:id="@+id/resetButton"
+            android:layout_width="155dp"
+            android:layout_height="61dp"
+            android:layout_margin="15dp"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="ΕΠΑΝΑΦΟΡΑ"
+            android:textSize="8dp"
+            android:background="@drawable/circlebtn"/>
+
+
+        <Button
+            android:id="@+id/answerButton"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_margin="12dp"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="ΕΛΕΓΧΟΣ ΑΠΑΝΤΗΣΗΣ"
+            android:background="@drawable/btn"/>
+
+        <Button
+            android:id="@+id/skipButton"
+            android:layout_width="155dp"
+            android:layout_height="61dp"
+            android:layout_margin="15dp"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="ΠΑΡΑΛΕΙΨΗ"
+            android:textSize="8dp"
+            android:background="@drawable/circlebtn"/>
+
+    </LinearLayout>
+</LinearLayout>
